@@ -6,7 +6,7 @@
 
 ## 1.运行效果
 
-<video src="/Users/kk/github/SiriWave/siri.webm"></video>
+![siri](siri.gif)
 
 ## 2.使用
 
