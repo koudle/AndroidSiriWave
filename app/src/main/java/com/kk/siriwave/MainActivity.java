@@ -26,8 +26,9 @@ public class MainActivity extends AppCompatActivity {
         reduceBtn = findViewById(R.id.reduce_btn);
 
         volumeText.setText(String.valueOf(curVolume));
-        siriWaveView.setVolume(curVolume);
+
         siriWaveView.startAnim();
+        siriWaveView.setVolume(curVolume);
 
         plusBtn.setOnClickListener(new View.OnClickListener() {
             @Override

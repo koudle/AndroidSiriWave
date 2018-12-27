@@ -9,7 +9,6 @@
     <com.kk.siriwave.SiriWaveView
         android:layout_width="0dp"
         android:layout_height="100dp"
-        android:text="Hello World!"
         android:background="@android:color/black"
         android:id="@+id/siri_wave_view"
         app:layout_constraintBottom_toBottomOf="parent"
